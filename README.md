@@ -2,7 +2,6 @@
 
 <h1 align="center">👋, I'm Shreysh Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = 'right' alt='coding' width='400' src = 'https://www.google.com/imgres?q=animated%20developer%20illustration&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F06%2F01%2F17%2F18%2F360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&docid=LfiF16KcHDAXgM&tbnid=s6wSpS44H7ORgM&vet=12ahUKEwjo1tnv8bKFAxWsi2MGHTfvAAMQM3oECBwQAA..i&w=540&h=360&hcb=2&ved=2ahUKEwjo1tnv8bKFAxWsi2MGHTfvAAMQM3oECBwQAA'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legitbunny&label=Profile%20views&color=0e75b6&style=flat" alt="legitbunny" /> </p>
 
